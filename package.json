@@ -3,10 +3,9 @@
   "version": "1.0.0",
   "description": "Automation",
   "main": "index.js",
-  "dependencies": {
-    "cypress": "^4.7.0"
-  },
+  "dependencies": {},
   "devDependencies": {
+    "cypress": "^4.12.1",
     "cypress-plugin-tab": "^1.0.5"
   },
   "scripts": {
